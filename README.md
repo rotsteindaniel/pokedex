@@ -28,3 +28,5 @@ $ cd pokedex
 $ npm install
 $ npm run dev
 ```
+
+The application will open in the browser on http://127.0.0.1:5173/
