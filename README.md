@@ -1,8 +1,11 @@
 # Pokedex com API, React hooks, useState, useContext, localStorage
 
+<img src="/home.jpg" alt="home do projeto Pokedex" />
+
 # Codigo final seguindo o vídeo do pasquadev (https://www.youtube.com/watch?v=n2kkXup2T1c&t=6535s)
 
 # <div align="center"> Pokemon React App</div>
+
 <p align="center">Pokedex made with React JS, Hooks, consuming the pokeapi and using localstorage.</p>
 
 ## 🛠️ Technologies
